@@ -102,8 +102,8 @@ main {
 
 aside {
     flex: 1;
-    padding: 25px;
-    background-color: #dcebe0;
+    padding: 30px;
+    background-color: #d4e7d9;
 }
 
 h1, h2 {
@@ -130,7 +130,7 @@ aside h2 {
 }
 
 aside li {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 /* Full-width text section */
